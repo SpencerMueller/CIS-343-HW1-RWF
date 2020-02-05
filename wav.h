@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #ifndef WAV_H_FILE
 #define WAV_H_FILE
 
